@@ -78,6 +78,20 @@ body {
   }
 }
 
+.titleline{
+    border: 0px;
+    border-bottom: 4px solid #eeeeee;
+    padding: 6px;
+    padding-left: 0px;
+    color: #777777;
+    font: 12px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+    cursor: default;
+    margin-bottom: 5px;
+}
+
 .history{
     margin-right: 25px;
     display: block;
