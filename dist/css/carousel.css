@@ -43,7 +43,11 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  background-color: #777;
+}
+
+.carousel-caption2 {
+  z-index: 10;
+  background-color: #;
 }
 
 /* Declare heights because of positioning of img element */
